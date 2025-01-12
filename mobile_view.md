@@ -1,3 +1,4 @@
+## mobile view
 normally applied,
 ```css
 .text-section {
